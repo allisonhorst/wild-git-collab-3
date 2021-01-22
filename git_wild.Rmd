@@ -35,11 +35,17 @@ ggplot(data = diamonds, aes(x = color, y = carat)) +
 ## PART B: Make problems
 
 ```{r break-it-1}
+### this is an awesome plot
 ggplot(data = diamonds %>% filter(carat > 2), aes(x = depth, y = carat, color = clarity)) +
   geom_point() +
   theme_void()
 
 5+10 ### yayayayay
+
+## ALLISON BREAKING STUUUUFFFFF
+teddy <- 1000 + 5
+
+## YAY
 ```
 
 ```{r break-it-2}
