@@ -35,9 +35,10 @@ ggplot(data = diamonds, aes(x = color, y = carat)) +
 ## PART B: Make problems
 
 ```{r break-it-1}
-ggplot(data = diamonds, aes(x = depth, y = carat)) +
-  geom_point() +
-  theme_void()
+## ALLISON BREAKING STUUUUFFFFF
+teddy <- 1000 + 5
+
+## YAY
 ```
 
 ```{r break-it-2}
